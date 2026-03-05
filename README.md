@@ -1,5 +1,7 @@
 # Reporting Dashboard — Prueba Técnica
 
+**Demo:** [https://escalafy-test.vercel.app/](https://escalafy-test.vercel.app/)
+
 ## Para empezar
 
 1. Leé **[INSTRUCTIONS.md](INSTRUCTIONS.md)** para los detalles completos de la prueba.
